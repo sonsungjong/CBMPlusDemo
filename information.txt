@@ -1,0 +1,7 @@
+[DB]
+IP=127.0.0.1
+ID=root
+PW=root
+SCHEMA=anom
+PORT=3306
+
